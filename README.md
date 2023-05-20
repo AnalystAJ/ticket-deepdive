@@ -30,7 +30,7 @@
 <img src="https://i.imgur.com/4Fd1bYY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Help Topics:
+Help Topics-used to define and route tickets to the proper department.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Help Topics:
 <img src="https://i.imgur.com/Wrau80A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Service Level Agreements:
+Service Level Agreements-used to provide a length of time in which the help desk Administrator expects tickets to be closed. 
 </p>
 <br />
 
