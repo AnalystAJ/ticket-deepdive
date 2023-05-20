@@ -2,23 +2,24 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Deepdive</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket DeepDive</h1>
 
 
-<h2>Video Demonstration</h2>
+<h2>Video Demonstration: </h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies Used: </h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used: </h2>
 
 - Windows 10</b> (21H2)
+
+<h2>Other Ticket Stages: </h2>
 
 - Help Topics
 - Service Level Agreements
